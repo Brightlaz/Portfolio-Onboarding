@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desktop.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CodeSpace Africa",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Callaborated with a team to build a website for a non-profit organization. The website is built with React and deployed to Netlify.",
+    url: "https://www.codespaceafrica.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Productsio website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Build a platform for a non-profit organization to showcase their products and services. The website is built with React and deployed to Netlify.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "3d app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Built a 3d app with react-three-fiber and deployed to Vercel.",
+    url: "https://bright-3d.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Niralab website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A website for a non-profit organization. The website is built with React and deployed to Netlify.",
+    url: "https://niralab.io/",
   },
 ];
 
